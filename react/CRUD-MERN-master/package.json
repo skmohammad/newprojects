@@ -8,7 +8,7 @@
     "express": "^4.15.3",
     "foreman": "^2.0.0",
     "marked": "^0.3.6",
-    "mongoose": "^4.10.3",
+    "mongoose": "^4.13.21",
     "nodemon": "^1.11.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
